@@ -81,6 +81,7 @@ Click **Export CSV** to download the metrics.
 ### Build for Production
 
 ### Shortest Job First (SJF)
+```
 npm run build
 ```
 ### Shortest Remaining Time (SRT)
@@ -93,22 +94,22 @@ A modern web-based simulator for visualizing and comparing CPU scheduling algori
 
 ## 🚀 Features
 
-- Modern Vue.js Interface: Reactive components with smooth animations
-- Process Management: Add, edit, and delete processes with real-time validation and inline editing
-- 5 Scheduling Algorithms: FCFS, SJF, SRT, RR, MLFQ
-- Visual Gantt Chart: Interactive timeline with color-coded process blocks
-- Performance Metrics: Waiting, turnaround, and response times
-- Export Results: Download metrics as CSV
-- Dark Mode: Toggle light/dark theme
-- Sample Data: Quick-load test processes for demonstrations
-- Responsive Design: Works on desktop, tablet, and mobile
+- **Modern Vue.js Interface**: Reactive components with smooth animations
+- **Process Management**: Add, edit, and delete processes with real-time validation and inline editing
+- **5 Scheduling Algorithms**: FCFS, SJF, SRT, RR, MLFQ
+- **Visual Gantt Chart**: Interactive timeline with color-coded process blocks
+- **Performance Metrics**: Waiting, turnaround, and response times
+- **Export Results**: Download metrics as CSV
+- **Dark Mode**: Toggle light/dark theme
+- **Sample Data**: Quick-load test processes for demonstrations
+- **Responsive Design**: Works on desktop, tablet, and mobile
 
 ## 🛠️ Technology Stack
 
-- Vue.js 3 - Progressive JavaScript framework with Composition API
-- Vite - Fast build tool and development server
-- Tailwind CSS - Utility-first CSS framework
-- FontAwesome - Icon library
+- **Vue.js 3** - Progressive JavaScript framework with Composition API
+- **Vite** - Fast build tool and development server
+- **Tailwind CSS** - Utility-first CSS framework
+- **FontAwesome** - Icon library
 
 ## 📦 Setup Instructions
 
